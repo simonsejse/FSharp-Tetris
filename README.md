@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/1.PNG "Logo Title Text 1")
 ![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/2.PNG "Logo Title Text 1")
-![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/3PNG "Logo Title Text 1")
+![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/3.PNG "Logo Title Text 1")
 ![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/4.PNG "Logo Title Text 1")
 ![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/5.PNG "Logo Title Text 1")
 ![alt text](https://github.com/simonsejse/FSharp-Tetris/blob/main/previews/6.PNG "Logo Title Text 1")
