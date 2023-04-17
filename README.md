@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" />
+  <img src="assets/logo.jpg" width="250" height="200"/>
 </p>
 
 # FSharp-Tetris
