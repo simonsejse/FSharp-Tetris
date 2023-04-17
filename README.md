@@ -1,6 +1,9 @@
-# FSharp-Tetris
+<p align="center">
+  <img src="assets/logo." />
+</p>
 
-##How to install and run?
+# FSharp-Tetris
+A Tetris game implemented using the language F# and DIKU.Canvas framework for GUI.
 
 ## Images
 
